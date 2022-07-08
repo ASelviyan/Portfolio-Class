@@ -1,0 +1,13 @@
+/* module for our about page */
+/* this wouldn't work bc element selectors dont work here */
+/* p {
+    color: greenyellow
+} */
+
+.extraGreen {
+    color: green
+}
+
+.bigFont {
+    font-size: 50px
+}
